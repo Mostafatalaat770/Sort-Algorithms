@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584283207 source:e:\musty\college\datastructuresii\assignment1\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<string.h>
+
